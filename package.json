@@ -1,0 +1,11 @@
+{
+  "name": "snake-game",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}
